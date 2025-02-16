@@ -1,7 +1,7 @@
 # Welcome :wave:!
 ### :bearded_person: About Me
 - My pronouns are she/her/hers.
-- You can contact me via Email: shaov@wit.edu.
+- You can contact me via Email: tehkert@gmail.com.
 
 ### :gear: Current Work
 I am a Reliability Engineer! :)
